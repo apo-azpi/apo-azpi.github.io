@@ -1,0 +1,16 @@
+/*border glow on hover*/
+.jumbotron:hover,
+footer:hover {
+  transition: all 0.3s ease-in-out;
+  box-shadow: 0 0 15px gold;
+}
+
+/*white text color*/
+.nav-link {
+  color: white;
+}
+
+/*nav link text color change on hover*/
+.nav-link:hover {
+  color: gold;
+}
